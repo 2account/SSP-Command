@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 
 module.exports = {
-    name: "ssp", // Dette skal di skrive for at, du kan spille.
+    name: "ssp", // Dette skal du skrive for at, du kan spille.
     description: "En sjov Sten Sak papir", // En beskrivelse af commanden.
 
     async run (bot, message, args) {
